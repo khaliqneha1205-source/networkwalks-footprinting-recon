@@ -1,9 +1,14 @@
 # Week 2 | Project Module 1: Footprinting & Reconnaissance
 
-This repository contains documentation, command outputs, and evidence screenshots for the **Footprinting & Reconnaissance Attacks with Multiple Kali Tools** lab from NetworkWalks[cite: 1, 2].
+This repository contains documentation, command outputs, evidence screenshots, and lab reports for the **Footprinting & Reconnaissance Attacks with Multiple Kali Tools** lab from NetworkWalks[cite: 1, 2].
 
 ## Objective
 To perform passive and active reconnaissance on the target website (`networkwalks.com`) using built-in Kali Linux utilities to gather public intelligence, identify underlying technologies, detect security defenses, and map out the DNS infrastructure before any security assessment[cite: 2].
+
+---
+
+## Lab Report & Documentation
+* 📄 **[Download / View Zenmap & Reconnaissance Report (PDF)](Zenmap.pdf)**
 
 ---
 
